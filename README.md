@@ -9,6 +9,6 @@ These files are my attempt to solve those challenges in as esoteric and/or ineff
 1. No if statements. There exists no further evil than including if statements in your code.
 2. Use Python. Self-explanatory.
 3. Only Finished work will be published to the Master Branch
-
+4. No classes.
 
 
