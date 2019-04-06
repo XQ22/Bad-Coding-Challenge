@@ -1,6 +1,6 @@
 # Purpose of these files
 
-[The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) is a Youtube Channel that produces coding challenges.
+[The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) is a Youtube Channel that produces videos with coding challenges.
 
 These files are my attempt to solve those challenges in as esoteric and/or inefficient a way as possible, inspired by the subreddit [/r/badcode](https://reddit.com/r/badcode).
 
@@ -11,4 +11,8 @@ These files are my attempt to solve those challenges in as esoteric and/or ineff
 3. Only Finished work will be published to the Master Branch
 4. No classes.
 
+## Completed Challenges
 
+Here, the challenges which have been completed are listed with their associated video/s
+
+As of now, no challenges have been completed.
