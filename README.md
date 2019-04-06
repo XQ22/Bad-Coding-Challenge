@@ -1,2 +1,13 @@
-# Bad-Coding-Challenge
-Doing the Coding Train's coding challenges poorly.
+# Purpose of these files
+
+[The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) is a Youtube Channel that produces coding challenges.
+
+These files are my attempt to solve those challenges in as esoteric and/or inefficient a way as possible, inspired by the subreddit [/r/badcode](https://reddit.com/r/badcode).
+
+## Rules I will be using
+
+1. No if statements. There exist no further evil than including if statements in your code.
+2. Use Python. Self-explanatory.
+3. Only Finished work will be published to the Master Branch
+
+
