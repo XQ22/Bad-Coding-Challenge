@@ -15,4 +15,5 @@ These files are my attempt to solve those challenges in as esoteric and/or ineff
 
 Here, the challenges which have been completed are listed with their associated video/s
 
+### Section 1 (Challenges 1-50)
 [Challenge 1](https://youtu.be/17WoOqgXsRM)
