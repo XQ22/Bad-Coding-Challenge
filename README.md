@@ -17,4 +17,5 @@ Here, the challenges which have been completed are listed with their associated 
 
 ### Section 1 (Challenges 1-50)
 [Challenge 1](https://youtu.be/17WoOqgXsRM)
+
 [Challenge 2](https://www.youtube.com/watch?v=LG8ZK-rRkXo)
