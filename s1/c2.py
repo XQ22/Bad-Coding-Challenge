@@ -110,7 +110,7 @@ def menger(г,α,β,γ):
         menger(г-1,α+ς+ς,β,γ+ς)
         menger(г-1,α+ς+ς,β+ς+ς,γ+ς)
         break
-menger(4,167.5,0,0)
+menger(4,243.75,163.75,-76.25)
 def stuff():
     background = pygame.Surface(screen.get_size())
     for i in range(len(faces)):
