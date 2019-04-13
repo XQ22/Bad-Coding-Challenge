@@ -13,7 +13,8 @@ These files are my attempt to solve those challenges in as esoteric and/or ineff
 
 ## Completed Challenges
 
-Here, the challenges which have been completed are listed with their associated video/s
+Here, the challenges which have been completed are listed with their associated videos
 
 ### Section 1 (Challenges 1-50)
 [Challenge 1](https://youtu.be/17WoOqgXsRM)
+[Challenge 2](https://www.youtube.com/watch?v=LG8ZK-rRkXo)
