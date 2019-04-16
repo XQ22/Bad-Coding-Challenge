@@ -19,3 +19,5 @@ Here, the challenges which have been completed are listed with their associated 
 [Challenge 1](https://youtu.be/17WoOqgXsRM)
 
 [Challenge 2](https://www.youtube.com/watch?v=LG8ZK-rRkXo)
+
+[Challenge 3](https://youtu.be/AaGK-fj-BAM)
