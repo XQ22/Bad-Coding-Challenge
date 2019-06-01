@@ -13,11 +13,13 @@ These files are my attempt to solve those challenges in as esoteric and/or ineff
 
 ## Completed Challenges
 
-Here, the challenges which have been completed are listed with their associated videos
+Here, the challenges which have been completed are listed and linked to their associated videos
 
 ### Section 1 (Challenges 1-50)
-[Challenge 1](https://youtu.be/17WoOqgXsRM)
+[Challenge 1 - Starfield](https://youtu.be/17WoOqgXsRM)
 
-[Challenge 2](https://www.youtube.com/watch?v=LG8ZK-rRkXo)
+[Challenge 2 - Menger Sponge Fractal](https://youtu.be/LG8ZK-rRkXo)
 
-[Challenge 3](https://youtu.be/AaGK-fj-BAM)
+[Challenge 3 - Snake game](https://youtu.be/AaGK-fj-BAM)
+
+[Challenge 4 - Purple Rain](https://youtu.be/KkyIDI6rQJI)
