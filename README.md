@@ -2,7 +2,7 @@
 
 [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) is a Youtube Channel that produces videos with coding challenges.
 
-These files are my attempt to solve those challenges in as esoteric and/or inefficient a way as possible, inspired by the subreddit [/r/badcode](https://reddit.com/r/badcode).
+These files are my attempt to solve those challenges in as esoteric and/or inefficient a way as possible, inspired by the subreddits [/r/badcode](https://reddit.com/r/badcode) and [/r/shittyprogramming](https://reddit.com/r/shittyprogramming).
 
 ## Rules I will be using
 
