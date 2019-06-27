@@ -23,3 +23,5 @@ Here, the challenges which have been completed are listed and linked to their as
 [Challenge 3 - Snake game](https://youtu.be/AaGK-fj-BAM)
 
 [Challenge 4 - Purple Rain](https://youtu.be/KkyIDI6rQJI)
+
+[Challenge 5 - Space Invaders](https://youtu.be/biN3v3ef-Y0)
